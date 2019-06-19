@@ -1,5 +1,7 @@
+import "./index.scss";
+
 function Home() {
-  return <div>Hello World</div>;
+  return <div className="title">Hello World</div>;
 }
 
 export default Home;
